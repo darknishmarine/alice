@@ -8,9 +8,10 @@ body {
 }
 
 .alice {
-    position: absolute;
-height: auto;
+    object-fit: contain;
+height: 100vh;
   max-width: 100%;
+  width: 100%;
     opacity: 1;
 
 }
